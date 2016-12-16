@@ -3,9 +3,18 @@
 Shapefiles are separated into 3 categories:
 
 ```
+Address/
 Common/
 General_Infrastructure/ 
 Waste_Water_Network/
+```
+
+# Address
+
+Address files contains a single type:
+
+```
+Address_YYYY_MM
 ```
 
 # Common
@@ -13,10 +22,10 @@ Waste_Water_Network/
 Common files are split into 4 types:
 
 ```
-BlockBoundaries_2016_10
-CampFacilities_2016_11
-DistrictBoundaries_2016_10
-Roads_2016_09
+BlockBoundaries_YYYY_MM
+CampFacilities_YYYY_MM
+DistrictBoundaries_YYYY_MM
+Roads_YYYY_MM
 ```
 
 # General Infrastructure
@@ -25,9 +34,9 @@ General Infrastructure files are split into 4 types:
 
 ```
 AssemblyPoints
-GarbageBins_2016_10
-Mosques_2016_09
-WASH_2016_09
+GarbageBins_YYYY_MM
+Mosques_YYYY_MM
+WASH_YYYY_MM
 ```
 
 # Waste Water Network
@@ -35,11 +44,11 @@ WASH_2016_09
 Waste Water Network files are split into 3 types:
 
 ```
-Pipes_2016_10
-SepticTanks_2016_10
-SteelTanks_2016_11
+Pipes_YYYY_MM
+SepticTanks_YYYY_MM
+SteelTanks_YYYY_MM
 ```
 
 # Info
 
-All shapefiles are in UTM 37N projection.
+All shapefiles are in WGS 84 datum and UTM 37N projection.
