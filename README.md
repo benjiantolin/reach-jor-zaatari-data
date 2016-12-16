@@ -14,7 +14,7 @@ Waste_Water_Network/
 Address files contains a single type:
 
 ```
-Address_YYYY_MM
+Addresses_YYYY_MM
 ```
 
 # Common
