@@ -5,6 +5,7 @@ Shapefiles are separated into 3 categories:
 ```
 Address/
 Common/
+Flood/
 General_Infrastructure/ 
 Waste_Water_Network/
 ```
@@ -26,6 +27,15 @@ BlockBoundaries_YYYY_MM
 CampFacilities_YYYY_MM
 DistrictBoundaries_YYYY_MM
 Roads_YYYY_MM
+```
+
+# Flood
+
+Flood files are split into 2 types:
+
+```
+FloodPoints_YYYY_MM_DD
+FloodLines_YYYY_MM_DD
 ```
 
 # General Infrastructure
