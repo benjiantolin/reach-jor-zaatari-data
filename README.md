@@ -25,7 +25,7 @@ Address/
 Common/
 Flood/
 General_Infrastructure/ 
-Waste_Water_Network/
+Water_and_Sanitation/
 ```
 
 ## Address
@@ -68,9 +68,9 @@ Mosques_YYYY_MM
 WASH_YYYY_MM
 ```
 
-## Waste Water Network
+## Water and Sanitation
 
-Waste Water Network files are split into 3 types:
+Water and Sanitation files are split into 3 types:
 
 ```
 Pipes_YYYY_MM
