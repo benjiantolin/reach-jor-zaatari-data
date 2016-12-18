@@ -1,1 +1,7 @@
 *.sr.lock
+*.cpg
+*.CPG
+*.qpj
+*.sbn
+*.sbx
+*.shp.xml
