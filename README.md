@@ -1,10 +1,10 @@
 # Folder Structure
 
-Files are separated into 2 categories, source `Data` and output `Maps`:
+Files are separated into 2 categories, source `data` and output `maps`:
 
 ```
-Data/
-Maps/
+data/
+maps/
 ```
 
 # Shapefiles
@@ -21,11 +21,11 @@ Shapefiles are split into 4 file types, all 4 are required to use it properly. T
 All data are separated into 5 categories:
 
 ```
-Address/
-Common/
-Flood/
-General_Infrastructure/ 
-Water_and_Sanitation/
+address/
+common/
+flood/
+general-infrastructure/ 
+water-and-sanitation/
 ```
 
 ## Address
