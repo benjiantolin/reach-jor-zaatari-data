@@ -49,9 +49,10 @@ Roads_YYYY_MM
 
 ## Flood
 
-Flood files are split into 3 types:
+Flood files are split into 3 types, with `raw` folder containing sources used to derive these files:
 
 ```
+raw/
 FloodPoints_YYYY_MM
 FloodLines_YYYY_MM
 FloodWaterPath_YYYY_MM
