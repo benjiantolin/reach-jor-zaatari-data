@@ -523,6 +523,9 @@
 { "type": "Feature", "properties": { "DISTRICT": 3, "BLOCK": 0, "TYPE": "mud", "SOURCE": "JEN" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.323794342931301, 32.301112703093764 ], [ 36.323444062175312, 32.301204949778423 ] ] } },
 { "type": "Feature", "properties": { "DISTRICT": 3, "BLOCK": 1, "TYPE": "mud", "SOURCE": "JEN" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.324980119641054, 32.301264235463684 ], [ 36.325034595087793, 32.301390842049649 ] ] } },
 { "type": "Feature", "properties": { "DISTRICT": 3, "BLOCK": 1, "TYPE": "mud", "SOURCE": "JEN" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.325430781271784, 32.301677462576848 ], [ 36.325544405037228, 32.301929792257134 ] ] } },
-{ "type": "Feature", "properties": { "DISTRICT": 3, "BLOCK": 1, "TYPE": "mud", "SOURCE": "JEN" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.323424536447256, 32.302510351595849 ], [ 36.323528717921356, 32.302667313146678 ] ] } }
+{ "type": "Feature", "properties": { "DISTRICT": 3, "BLOCK": 1, "TYPE": "mud", "SOURCE": "JEN" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.323424536447256, 32.302510351595849 ], [ 36.323528717921356, 32.302667313146678 ] ] } },
+{ "type": "Feature", "properties": { "DISTRICT": 12, "BLOCK": 1, "TYPE": "thw_flood", "SOURCE": "ACTED" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.318759697660077, 32.296007059994359 ], [ 36.312299928510775, 32.296549835790834 ] ] } },
+{ "type": "Feature", "properties": { "DISTRICT": 2, "BLOCK": 6, "TYPE": "thw_flood", "SOURCE": "ACTED" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.319434700117313, 32.297475374236377 ], [ 36.313272447611851, 32.29788377467532 ] ] } },
+{ "type": "Feature", "properties": { "DISTRICT": 9, "BLOCK": 16, "TYPE": "flood", "SOURCE": "ACTED" }, "geometry": { "type": "LineString", "coordinates": [ [ 36.332943432226173, 32.283033107415058 ], [ 36.331431822221987, 32.283548398697569 ] ] } }
 ]
 }
