@@ -1,3 +1,4 @@
+*.csv#
 *.sr.lock
 *.cpg
 *.CPG
