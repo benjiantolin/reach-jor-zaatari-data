@@ -2,8 +2,12 @@
 *.sr.lock
 *.cpg
 *.CPG
+*.dbf
 *.qpj
+*.prj
 *.sbn
 *.sbx
+*.shp
+*.shx
 *.shp.xml
 !*.shp.zip
