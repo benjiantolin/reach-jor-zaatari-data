@@ -1,0 +1,162 @@
+OBJECTID,LINETYPE,NAME,AR_NAME
+3,paved,Al Khadamat Street,شارع الخدمات
+9,paved,Al Souq Street,شارع السوق
+10,paved,Al Sanout Street,شارع السنوت
+11,paved,Al Rabee' Street,شارع الربيع
+12,paved,Bardi Street,شارع بردى
+13,paved,Khamman Street,شارع خمان
+14,paved,Maraya Street,شارع مرايا
+15,paved,Al Khuzami Street,شارع الخزامي
+16,paved,Al Qameh Street,شارع القمح
+17,paved,Al Kafour Street,شارع الكافور
+18,paved,Al Kharroub Street,شارع الخروب
+19,paved,Al Safsaf Street,شارع الصفصاف
+20,paved,Al Mithaq Street,شارع الميثاق
+21,paved,Al Sidq Street,شارع الصديق
+22,paved,Abbad Al Shams Street,شارع عباد الشمس
+23,paved,Al Ballout Street,شارع البلوط
+24,paved,Al Hour Street,شارع الحور
+25,paved,Al nardeen Street,شارع الناردين
+26,paved,Al Narjes Street,شارع النرجس
+27,paved,Al Teen Street,شارع التين
+28,paved,Al Quton Street,شارع القطن
+29,paved,Al Raihan Street,شارع الريحان
+30,paved,Al Saru Street,شارع السرو
+31,paved,Al Nisreen Street,شارع النسرين
+32,paved,Al Yansoun Street,شارع اليانسون
+33,paved,Al Rumman Street,شارع الرمان
+34,paved,Al Nakheel Street,شارع النخيل
+35,paved,Al Zaytoun Steet,شارع الزيتون
+36,paved,Al Wasl Street,شارع الوصل
+37,paved,Al Tahouna Street,شارع الطاحونة
+38,paved,Al Khail Street,شارع الخيل
+39,paved,Al Littihad Stree,شارع الاتحاد
+40,paved,Al Madares Street,شارع المدارس
+41,paved,Al Matteh Street,شارع المته
+42,paved,Al Amanah Street,شارع الامانة
+43,paved,Al Sadeeq Street,شارع الصديق
+44,paved,Al Jameel Street,شارع الجميل
+45,paved,Anbar Street,شارع انبار
+46,paved,Al Yasmin Street,شارع الياسمين
+47,paved,Alhadaeq Street,شارع الحدائق
+48,paved,Enab Street,شارع عناب
+49,paved,Rashad Street,شارع رشاد
+50,paved,Al Haram Street,شارع الهرم
+51,paved,Al Dalya Street,شارع الداليه
+52,paved,Al Saber Street,شارع الصابر
+53,paved,Al Andalus Street,شارع الاندلس
+54,paved,Al Qadi Street,شارع القاضي
+55,paved,Al Sahafa Street,شارع الصحافة
+56,paved,Al Fuqaha'  Street,شارع الفقهاء
+57,paved,Al MAhabba Street,شارع المحبة
+58,paved,Omar Bin Alkhattab Street,شارع عمر بن الخطاب
+59,paved,Al Fursan Street,شارع الفرسان
+60,unpaved,Al Maydaan Street,شارع الميدان
+61,unpaved,Al Rahman Street,شارع الرحمن
+62,unpaved,Al Khazzan Street,شارع الخزان
+63,paved,Al Zahraa' Street,شارع الزهراء
+64,unpaved,Al Qaws Street,شارع القوس
+65,unpaved,Al Deir Street,شارع الدير
+66,paved,Al Qasabah Street,شارع القصبة
+67,unpaved,Al Noor Street,شارع النور
+68,unpaved,Al Taweel Street,شارع الطويل
+69,unpaved,Al Baraka Street,شارع البركة
+70,unpaved,Al Jaleel Street,شارع الجليل
+71,paved,Al Mizan Street,شارع الميزان
+72,paved,Arar Street,شارع عرار
+73,unpaved,Qwaiq Street,شارع قويق
+74,unpaved,Al Khandaq Street,شارع الخندق
+75,unpaved,Al Qayrawan Street,شارع القيراوان
+76,unpaved,Al Yusor Street,شارع اليسر
+77,paved,Al Khair Street,شارع الخير
+78,paved,Acacia Street,شارع الاكاسيا
+79,unpaved,Al Razi Street,شارع الرازي
+80,unpaved,Al Attar,شارع العطار
+81,unpaved,Al Hilal Street,شارع الهلال
+82,unpaved,Al Wahab Street,شارع الوهاب
+83,unpaved,As'sa'd Street,شارع السعد
+84,unpaved,Al Nasr Street,شارع النصر
+85,unpaved,Al Madi Street,شارع الماضي
+86,unpaved,Al Kalha Street,شارع الكلحة
+87,paved,Al Bukhari Street,شارع البخاري
+88,paved,Al Mahatta Street,شارع المحطة
+89,unpaved,Al Wajd Street,شارع الوجد
+90,unpaved,Al Murou'a Street,شارع المروؤة
+91,unpaved,Al Rihab Street,شارع الرحاب
+92,unpaved,Al Juboul Street,شارع الجبول
+93,unpaved,Khulkhal Street,شارع خلخال
+94,unpaved,Al Mansour Street,شارع المنصور
+95,unpaved,Al Nai'm Street,شارع النعيم
+96,unpaved,Al Adl Street,شارع العدل
+97,paved,Al Bayan Street,شارع البيان
+98,unpaved,Ibn Sina Street,شارع ابن سينا
+99,paved,Al Oruba Street,شارع العروبة
+100,unpaved,Al Waha Street,شارع الواحة
+101,unpaved,Al Ramil Street,شارع الرمل
+102,unpaved,Al Wadi Street,شارع الوادي
+103,unpaved,Al mujamma' Street,شارع المجمع
+104,paved,jawad Street,شارع جواد
+105,unpaved,Al Sanabel Street,شارع السنابل
+106,paved,Al Worood Street,شارع الورود
+107,unpaved,Al bayda' Street,شارع البيضاء
+108,unpaved,Al Jazeera Street,شارع الجزيرة
+109,paved,Al Sonubar Street,شارع الصنوبر
+110,paved,Al Qal'a Street,شارع القلعة
+111,paved,Al Surour Street,شارع السرور
+112,paved,Al Taqwa Street,شارع التقوى
+113,unpaved,Al Khayyam Street,شارع الخيام
+114,unpaved,Sahnoun Street,شارع سحنون
+115,unpaved,Essa'ada Street,شارع السعادة
+116,unpaved,Al Zuhour Street,شارع الزهور
+117,unpaved,Al Marsa Street,شارع المرسى
+118,paved,Al Khaleej Street,شارع الخليج
+119,unpaved,Al Jabr Street,شارع الجبر
+120,unpaved,Al Khareef Street,شارع الخريف
+121,unpaved,Al Madares Street,شارع المدارس
+122,paved,Al Jell Street,شارع الجيل
+123,unpaved,Al Sadeeq Street,شارع الصديق
+124,paved,AlSha'er Street,شارع الشاعر
+125,unpaved,Al Wed Street,شارع الود
+126,unpaved,Kindi Street,شارع الكندي
+127,unpaved,Al Amanah Street,شارع الامانة
+128,unpaved,Al Misk Street,شارع المسك
+129,unpaved,Mona Street,شارع المنى
+130,unpaved,Laymoun Street,شارع الليمون
+131,unpaved,Al Ekhlas Street,شارع الاخلاص
+132,unpaved,Al Boundoq Street,شارع البندق
+133,paved,Barda Street,شارع بردى
+134,unpaved,Arrawda Street,شارع الروضة
+135,unpaved,Tishreen Street,شارع تشرين
+136,unpaved,Al Firdous Street,شارع الفردوس
+137,unpaved,Al Taqaddom Sreet,شارع التقدم
+138,unpaved,Al Hikma Street,شارع السكة
+139,unpaved,Al Amal Street,شارع الامل
+140,unpaved,Al jawhara Street,شارع الجوهرة
+141,unpaved,Al Nab'a Street,شارع النعبة
+142,paved,Al Hout Street,شارع الحوت
+143,unpaved,Al Basta Street,شارع البسطة
+144,unpaved,Samman Street,شارع سمان
+145,unpaved,Nisan Street,شارع نيسان
+146,unpaved,Al Tareq Street,شارع الطارق
+147,paved,Al Salam Street,شارع السلام
+148,paved,Azzam Street,شارع عزام
+149,unpaved,Al Safa Street,شارع الصفا
+150,unpaved,Al Abbasiya Street,شارع العباسية
+151,unpaved,Al Muntazah Street,شارع المنتزه
+152,unpaved,Al Mashtal Street,شارع المشتل
+153,paved,South Road,الشارع الجنوبي
+154,paved,Ar'ar Street,شارع عرعر
+155,paved,Lotus  Street,شارع اللوتس
+157,unpaved,Al Majd Street,شارع المجد
+158,paved,Al Kursi Street,شارع الكرسي
+159,unpaved,Al Khamic Street,شارع خميس
+160,paved,Al Bustan Street,شارع البستان
+161,paved,Al Habaq Street,شارع الحبق
+162,paved,Al Kina Street,شارع الكينا
+163,paved,Al Shabat Street,شارع الشبت
+165,paved,Al Nawras Street,شارع النورس
+2,paved,Ring Road,الشارع الدائري
+4,paved,Dumyanah Street,شارع دميانة
+6,paved,Airport Road,شارع المطار
+7,paved,West Road,الشارع الغربي
+1,paved,East Road,الشارع الشرقي
