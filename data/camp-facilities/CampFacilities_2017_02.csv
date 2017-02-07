@@ -153,7 +153,6 @@ OBJECTID_1,TYPE,HEALTH_TYP,OPERATOR,IS_CONSTRU,DISTRICT,NAME_EN,NAME_AR,HOURS_EN
 152,Warehouse,Camp Facility,,,8,ACTED Technical Site,مركز الصيانة اكتد,,,,,,,,,,,,,,,
 153,Water Facilities,Camp Facility,,,12,Wastewater Treatment Plant,محطة معالجة مياه الصرف الصح,,,,,,,,,,,,,,,
 154,Community Center,Camp Facility,IRD,,7,IRD,مركز اجتماعيIRD,,,,,,,,,,,,,,,
-155,Health,Camp Facility,,,0,Women's Centre,مركز المراه,,,,,,,,,,,,,,,
 156,Warehouse,Camp Facility,,,8,Al Thajaj Water/Ice Factory,مياه الثجاج,,,,,,,,,,,,,,,
 157,School,Camp Facility,,,7,School 5,المدرسه 5,,,,,,,,,,,,,,,
 158,Community Center,Camp Facility with Health Services,UNFPA/Noor Hussein Foundation,,5,Noor Hussein Shared Centre,مركز المراه نور الحسين,9:00am-4:00pm (Sun-Thu),9:00am-4:00pm (Sun-Thu),"family planning, gender-based violence support, reproductive care","family planning, gender-based violence support, reproductive care",N,Y,N,N,N,N,Y,N,N,N,N
