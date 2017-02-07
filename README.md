@@ -21,26 +21,21 @@
 
 General Infrastructure:
 
-- [English](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_Dec2016.pdf?raw=true)
-- [Arabic](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_Dec2016_Ar.pdf?raw=true) 
-- [District 1](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_01_Dec2016.pdf?raw=true)
-- [District 2](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_02_Dec2016.pdf?raw=true)
-- [District 3](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_03_Dec2016.pdf?raw=true)
-- [District 4](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_04_Dec2016.pdf?raw=true)
-- [District 5](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_05_Dec2016.pdf?raw=true)
-- [District 6](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_06_Dec2016.pdf?raw=true)
-- [District 7](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_07_Dec2016.pdf?raw=true)
-- [District 8](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_08_Dec2016.pdf?raw=true)
-- [District 9](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_09_Dec2016.pdf?raw=true)
-- [District 10](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_10_Dec2016.pdf?raw=true)
-- [District 11](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_11_Dec2016.pdf?raw=true)
-- [District 12](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/general-infrastructure/district/REACH_JOR_Map_Zaatari_CCM_General_Infrastructure_District_12_Dec2016.pdf?raw=true)
+- [English](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_general_infrastructure_dec2016_1.pdf)
+- [Arabic](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_general_infrastructure_dec2016_ar_0.pdf) 
+- [By District](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_general_infrastructure_dec2016_1.pdf)
+
+Water and Sanitation:
+
+- [Septic and Steel Tanks](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_WWN_Septic_Steel_Tanks_Imagery_Nov2016.pdf?raw=true)
+- [Wastewater Network Construction](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_wwn_progress_jun2016_a1.pdf)
+- [Garbage Bins](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_SWM_Garbage_Bins_Nov2016.pdf?raw=true)
 
 Flood:
 
 - [December 2016](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/flood/REACH_JOR_Map_Zaatari_FloodDamage_Dec2016.pdf?raw=true)
-- [February 2015](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/flood/archive/REACH_JOR_Map_Zaatari_JanaStormAffectedAreasSaturday_21Feb2015_A1.pdf?raw=true)
-- [January 2015](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/flood/archive/REACH_JOR_Map_Zaatari_StormAffectedAreas_Overall_26Jan2015_A3.pdf?raw=true)
+- [February 2015](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_janastormaffectedareassaturday_21feb2015_a1.pdf)
+- [January 2015](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_stormaffectedareas_overall_26jan2015_a3.pdf)
 
 # Info
 
