@@ -1,4 +1,4 @@
-# Data
+# Geo Data
 
 | Data Type | Shapefile | KML | GeoJSON | CSV | XLSX
 |---|---|---|---|---|---|
@@ -16,6 +16,14 @@
 | Septic Tanks | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/septic-tanks/SepticTanks_2017_01.shp.zip?raw=true) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/septic-tanks/SepticTanks_2017_01.kml) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/septic-tanks/SepticTanks_2017_01.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/septic-tanks/SepticTanks_2017_01.csv) |
 | Steel Tanks | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/steel-tanks/SteelTanks_2016_11.shp.zip?raw=true) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/steel-tanks/SteelTanks_2016_11.kml) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/steel-tanks/SteelTanks_2016_11.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/steel-tanks/SteelTanks_2016_11.csv) |
 | WASH Blocks | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wash-blocks/WashBlocks_2016_09.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/wash-blocks/WashBlocks_2016_09.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/wash-blocks/WashBlocks_2016_09.csv) |
+
+# Wastewater Network Data
+
+| Grouped By | XLSX | CSV | 
+|---|---|---|
+| Household | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_Household_2017_01.xlsx?raw=true) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_Household_2017_01.xlsx?raw=true)
+| Septic Tank | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SepticTank_2017_01.xlsx?raw=true) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SepticTank_2017_01.xlsx?raw=true) 
+| Steel Tank | 
 
 # Web Maps
 
