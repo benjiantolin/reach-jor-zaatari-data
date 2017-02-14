@@ -1,11 +1,11 @@
 # Data
 
-| Data Type | Shapefile | KML | GeoJSON | CSV |
-|---|---|---|---|---|
+| Data Type | Shapefile | KML | GeoJSON | CSV | XLSX
+|---|---|---|---|---|---|
 | Addresses | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/address/Addresses_2016_12.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/address/Addresses_2016_12.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/address/Addresses_2016_12.csv) |
 | Assembly Points | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/assembly-points/AssemblyPoints.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/assembly-points/AssemblyPoints.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/assembly-points/AssemblyPoints.csv) |
 | Block Boundaries | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/block-boundaries/BlockBoundaries_2016_12.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/block-boundaries/BlockBoundaries_2016_12.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/block-boundaries/BlockBoundaries_2016_12.csv) |
-| Camp Facilities | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/camp-facilities/CampFacilities_2017_02.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/camp-facilities/CampFacilities_2017_02.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/camp-facilities/CampFacilities_2017_02.csv) |
+| Camp Facilities | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/camp-facilities/CampFacilities_2017_02.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/camp-facilities/CampFacilities_2017_02.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/camp-facilities/CampFacilities_2017_02.csv) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/camp-facilities/CampFacilities_2017_02.xlsx)
 | Control Points | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/control-point/ControlPoints_2016_07.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/control-point/ControlPoints_2016_07.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/control-point/ControlPoints_2016_07.csv) |
 | District Boundaries | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/district-boundaries/DistrictBoundaries_2016_12.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/district-boundaries/DistrictBoundaries_2016_12.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/district-boundaries/DistrictBoundaries_2016_12.csv) |
 | Elevation | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/elevation/Elevation_2015_02.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/elevation/Elevation_2015_02.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/elevation/Elevation_2015_02.csv) |
@@ -30,7 +30,7 @@ General Infrastructure:
 
 - [English](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_general_infrastructure_dec2016_1.pdf)
 - [Arabic](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_general_infrastructure_dec2016_ar_0.pdf) 
-- [By District](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_general_infrastructure_dec2016_1.pdf)
+- [By District](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_general_infrastructure_district_dec2016_1.pdf)
 
 Water and Sanitation:
 
