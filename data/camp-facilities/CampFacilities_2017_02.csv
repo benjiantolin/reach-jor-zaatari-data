@@ -180,7 +180,7 @@ OBJECTID_1,TYPE,HEALTH_TYP,OPERATOR,IS_CONSTRU,DISTRICT,NAME_EN,NAME_AR,HOURS_EN
 180,Office,Camp Facility with Health Services,UNHCR,,3,IRD Outreach,خدمات المخيم,9:00am-3:00pm (Sun-Thu),9:00am-3:00pm (Sun-Thu),"malnutrition detection, outreach, vaccination","malnutrition detection, outreach, vaccination",N,N,Y,Y,N,N,N,N,N,N,N
 181,School,Camp Facility,,,7,School (Kuwaiti),المدرسه الكويتيه,,,,,,,,,,,,,,,
 182,Mosque,Camp Facility,,,10,Kuwaiti Mosque 2,مدر سة الكويتيه 2,,,,,,,,,,,,,,,
-183,Health,Camp Facility,,,10,AMR Health Clinic 2,العياده الكويتيع,,,,,,,,,,,,,,,
+183,Health,Healthcare Facility,,,10,AMR Health Clinic 2,العياده الكويتيع,,,,,N,N,N,N,N,N,N,N,N,N,N
 184,Security,Camp Facility,UNHCR,,5,JPD,مفرزة احداث الزعتري,,,,,,,,,,,,,,,
 185,Community Center,Camp Facility,WFP,,7,UN Women Oasis3,مركز تزويد,,,,,,,,,,,,,,,
 186,Water Facilities,Camp Facility,,,12,WWN Contractor Site,موقع مقاولين الصرف الصحي,,,,,,,,,,,,,,,
