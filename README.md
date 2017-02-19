@@ -21,9 +21,9 @@
 
 | Grouped By | XLSX | CSV | 
 |---|---|---|
-| Household | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_Household_2017_01.xlsx?raw=true) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_Household_2017_01.xlsx?raw=true)
-| Septic Tank | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SepticTank_2017_01.xlsx?raw=true) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SepticTank_2017_01.xlsx?raw=true) 
-| Steel Tank | 
+| Household | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_Household_2017_02.xlsx?raw=true) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_Household_2017_02.xlsx?raw=true)
+| Septic Tank | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SepticTank_2017_02.xlsx?raw=true) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SepticTank_2017_02.xlsx?raw=true)
+| Steel Tank | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SteelTank_2017_02.xlsx?raw=true) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wastewater-network/WastewaterNetwork_SteelTank_2017_02.xlsx?raw=true)
 
 # Web Maps
 
