@@ -1,5 +1,7 @@
 # Geo Data
 
+The following data types make up each REACH product shown below. They are available in multiple formats depending on your use case.
+
 | Data Type | Shapefile | KML | GeoJSON | CSV | XLSX
 |---|---|---|---|---|---|
 | Addresses | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/address/Addresses_2017_02.shp.zip?raw=true) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/address/Addresses_2017_02.kml) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/address/Addresses_2017_02.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/address/Addresses_2017_02.csv) | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/address/Addresses_2017_02.xlsx?raw=true)
@@ -18,6 +20,37 @@
 | WASH Blocks | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wash-blocks/WashBlocks_2016_09.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/wash-blocks/WashBlocks_2016_09.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/wash-blocks/WashBlocks_2016_09.csv) |
 
 # Wastewater Network Data
+
+This data is specifically prepared for the Za'atari Wastewater Network. Input data is collected from implementing partners, each responsible for the following districts: 
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">ACTED</th>
+      <th colspan="2">JEN</th>
+      <th colspan="4">OXFAM</th>
+      <th colspan="6">ACTED</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+      <td>8</td>
+      <td>9</td>
+      <td>10</td>
+      <td>11</td>
+      <td>12</td>
+    </tr>
+  </tbody>  
+</table>
+
+This data is stored at the household level from the source. Multiple households are all connected to a single septic tank, and multiple septic tanks to a steel tank. The source data at household level has been aggregated to the septic and steel tank level to better view higher level relationships.
 
 | Grouped By | XLSX | CSV | 
 |---|---|---|
