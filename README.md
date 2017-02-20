@@ -64,7 +64,9 @@ This data is stored at the household level from the source. Multiple households 
 
 # Web Maps
 
-The following links lead to the Za'atari Maps application. The maps are mobile friendly, use offline technologies for Android (Service Workers), and and iOS (App Cache), and provides multilingual support for Arabic language. 
+https://zaatari-maps.reach-info.org
+
+This links leads to the Za'atari Maps application. The maps are mobile friendly, location aware, use offline technologies for Android (Service Workers), and and iOS (App Cache), and provides multilingual support for Arabic language. Use the menu on the left to select from the themes below, the info button to switch languages, and the layers button on the far right to see the map legend and filter items on the map. 
 
 - [Districts](https://zaatari-maps.reach-info.org/#/districts)
 - [Blocks](https://zaatari-maps.reach-info.org/#/blocks)
@@ -80,7 +82,7 @@ To install the app on mobile devices, select "Add to Home screen" from the Chrom
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-5.jpg" width="140px" alt="Android Install 5">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-6.jpg" width="140px" alt="Android Install 6">
 
-If for some reason this is not working on your device, you can import the source data into an existing application such as MAPS.ME. Click on the KML link on your phone, and this will load the file into the application. If you would like to delete or turn off downloaded layers, you can do so from the Bookmark Manager screen.
+If for some reason this is not working on your device, you can import the source data into an existing application such as MAPS.ME. Click the KML link on your phone, and this will load the file into the application. If you would like to delete or turn off downloaded layers, you can do so from the Bookmark Manager screen.
 
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-1.jpg" width="140px" alt="MAPS.ME Install 1">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-2.jpg" width="140px" alt="MAPS.ME Install 2">
