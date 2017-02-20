@@ -1,5 +1,7 @@
 # Geo Data
 
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/geo-data.jpg" height="140px" alt="Geo Data">
+
 The following data types make up each REACH product shown below. They are available in multiple formats depending on your use case.
 
 | Data Type | Shapefile | KML | GeoJSON | CSV | XLSX
@@ -20,6 +22,8 @@ The following data types make up each REACH product shown below. They are availa
 | WASH Blocks | [Download](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/data/wash-blocks/WashBlocks_2016_09.shp.zip?raw=true) |  | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/wash-blocks/WashBlocks_2016_09.geojson) | [Download](https://cdn.rawgit.com/impact-initiatives/reach-jor-zaatari-data/master/data/wash-blocks/WashBlocks_2016_09.csv) |
 
 # Wastewater Network Data
+
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/wastewater-network-data.jpg" height="140px" alt="Wastewater Network Data">
 
 This data is specifically prepared for the Za'atari Wastewater Network. Input data is collected from implementing partners, each responsible for the following districts: 
 
@@ -84,7 +88,9 @@ If for some reason this is not working on your device, you can import the source
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-4.jpg" width="140px" alt="MAPS.ME Install 4">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-5.jpg" width="140px" alt="MAPS.ME Install 5">
 
-# Maps
+# Print Maps
+
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/print-maps.jpg" height="140px" alt="Print Maps">
 
 General Infrastructure:
 
