@@ -36,12 +36,12 @@ The following links lead to the Za'atari Maps application. The maps are mobile f
 
 To install the app on mobile devices, select "Add to Home screen" from the Chrome menu. After this, the app is saved to your phone and will be available offline.
 
-<img src="./photos/android-install-1.png" width="100" alt="Android Install 1">
-<img src="./photos/android-install-2.png" width="100" alt="Android Install 2">
-<img src="./photos/android-install-3.png" width="100" alt="Android Install 3">
-<img src="./photos/android-install-4.png" width="100" alt="Android Install 4">
-<img src="./photos/android-install-5.png" width="100" alt="Android Install 5">
-<img src="./photos/android-install-6.png" width="100" alt="Android Install 6">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-1.png" width="100" alt="Android Install 1">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-2.png" width="100" alt="Android Install 2">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-3.png" width="100" alt="Android Install 3">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-4.png" width="100" alt="Android Install 4">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-5.png" width="100" alt="Android Install 5">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-6.png" width="100" alt="Android Install 6">
 
 # Maps
 
