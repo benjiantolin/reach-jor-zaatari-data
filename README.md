@@ -76,6 +76,14 @@ To install the app on mobile devices, select "Add to Home screen" from the Chrom
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-5.jpg" width="140px" alt="Android Install 5">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-6.jpg" width="140px" alt="Android Install 6">
 
+If for some reason this is not working on your device, you can import the source data into an existing application such as MAPS.ME. Click on the KML link on your phone, and this will load the file into the application. If you would like to delete or turn off downloaded layers, you can do so from the Bookmark Manager screen.
+
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-1.jpg" width="140px" alt="MAPS.ME Install 1">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-2.jpg" width="140px" alt="MAPS.ME Install 2">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-3.jpg" width="140px" alt="MAPS.ME Install 3">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-4.jpg" width="140px" alt="MAPS.ME Install 4">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-5.jpg" width="140px" alt="MAPS.ME Install 5">
+
 # Maps
 
 General Infrastructure:
