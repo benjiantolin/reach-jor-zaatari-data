@@ -1,13 +1,13 @@
-# Joint Partner Za'atari Data Portal
+# Joint Za'atari Data Portal
 
-<img src="./photos/logo-unicef.jpg" height="48px" alt="">
-<img src="./photos/logo-unhcr.jpg" height="48px" alt="">
-<img src="./photos/logo-unops.jpg" height="48px" alt="">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-unicef.jpg" height="48px" alt="">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-unhcr.jpg" height="48px" alt="">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-unops.jpg" height="48px" alt="">
 
-<img src="./photos/logo-acted.jpg" height="48px" alt="">
-<img src="./photos/logo-jen.jpg" height="48px" alt="">
-<img src="./photos/logo-oxfam.jpg" height="48px" alt="">
-
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-acted.jpg" height="48px" alt="">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-jen.jpg" height="48px" alt="">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-oxfam.jpg" height="48px" alt="">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-reach.jpg" height="48px" alt="">
 
 # Geo Data
 
@@ -127,6 +127,4 @@ Flood:
 
 All Shapefiles are in UTM 37N projection.  
 All KML, GeoJSON, and CSV are in WGS84 projection.
-
-# Attribution
 
