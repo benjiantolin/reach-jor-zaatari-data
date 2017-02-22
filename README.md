@@ -1,8 +1,19 @@
+# Joint Partner Za'atari Data Portal
+
+<img src="./photos/logo-unicef.jpg" height="48px" alt="">
+<img src="./photos/logo-unhcr.jpg" height="48px" alt="">
+<img src="./photos/logo-unops.jpg" height="48px" alt="">
+
+<img src="./photos/logo-acted.jpg" height="48px" alt="">
+<img src="./photos/logo-jen.jpg" height="48px" alt="">
+<img src="./photos/logo-oxfam.jpg" height="48px" alt="">
+
+
 # Geo Data
 
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/geo-data.jpg" height="140px" alt="Geo Data">
 
-The following data types make up each REACH product shown below. They are available in multiple formats depending on your use case.
+The following data types make up each product shown below. They are available in multiple formats depending on your use case.
 
 | Data Type | Shapefile | KML | GeoJSON | CSV | XLSX
 |---|---|---|---|---|---|
@@ -116,3 +127,6 @@ Flood:
 
 All Shapefiles are in UTM 37N projection.  
 All KML, GeoJSON, and CSV are in WGS84 projection.
+
+# Attribution
+

@@ -2,16 +2,16 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "NUMBER": 1, "DISTRICT": "(Facing District 1)", "AREA": "UNICEF warehouse" }, "geometry": { "type": "Point", "coordinates": [ 36.321005691073417, 32.304343995585469 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 2, "DISTRICT": "Registration Compound", "AREA": "The UNHCR Registration Facility" }, "geometry": { "type": "Point", "coordinates": [ 36.323222000173544, 32.303664000185542 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 3, "DISTRICT": "Base Camp", "AREA": "Rear area of the UN Admin area (Base Camp)" }, "geometry": { "type": "Point", "coordinates": [ 36.327764000073785, 32.302206000385695 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 4, "DISTRICT": "District 6", "AREA": "NRC Distribution Compound" }, "geometry": { "type": "Point", "coordinates": [ 36.338692000374387, 32.298074999586042 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 5, "DISTRICT": "District 5", "AREA": "KSA Hospital" }, "geometry": { "type": "Point", "coordinates": [ 36.330530999973952, 32.292317000285806 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 6, "DISTRICT": "District 8", "AREA": "Multi-Activity Center for Girls, MAC 4" }, "geometry": { "type": "Point", "coordinates": [ 36.340992593874518, 32.287669024286132 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 7, "DISTRICT": "District 9", "AREA": "ACTED Community" }, "geometry": { "type": "Point", "coordinates": [ 36.330609669073958, 32.285823270085821 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 8, "DISTRICT": "District 10", "AREA": "ACTED Site Office" }, "geometry": { "type": "Point", "coordinates": [ 36.325552345973684, 32.287942669085652 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 9, "DISTRICT": "District 11", "AREA": "ACTED Lemon Center " }, "geometry": { "type": "Point", "coordinates": [ 36.320364242473389, 32.290540559585466 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 10, "DISTRICT": "District 12", "AREA": "IMC Empowerment Center" }, "geometry": { "type": "Point", "coordinates": [ 36.312138999872936, 32.294228000285209 ] } },
-{ "type": "Feature", "properties": { "NUMBER": 11, "DISTRICT": "District 4", "AREA": "WFP Food Distribution Compound" }, "geometry": { "type": "Point", "coordinates": [ 36.319964000073362, 32.297969000185446 ] } }
+{ "type": "Feature", "properties": { "NUMBER": 1, "DISTRICT": 1, "AREA": "UNICEF warehouse" }, "geometry": { "type": "Point", "coordinates": [ 36.321005691073417, 32.304343995585469 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 2, "DISTRICT": 3, "AREA": "The UNHCR Registration Facility" }, "geometry": { "type": "Point", "coordinates": [ 36.323222000173544, 32.303664000185542 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 3, "DISTRICT": 3, "AREA": "Rear area of the UN Admin area (Base Camp)" }, "geometry": { "type": "Point", "coordinates": [ 36.327764000073785, 32.302206000385695 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 4, "DISTRICT": 6, "AREA": "NRC Distribution Compound" }, "geometry": { "type": "Point", "coordinates": [ 36.338692000374387, 32.298074999586042 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 5, "DISTRICT": 5, "AREA": "KSA Hospital" }, "geometry": { "type": "Point", "coordinates": [ 36.330530999973952, 32.292317000285806 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 6, "DISTRICT": 8, "AREA": "Multi-Activity Center for Girls, MAC 4" }, "geometry": { "type": "Point", "coordinates": [ 36.340992593874518, 32.287669024286132 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 7, "DISTRICT": 9, "AREA": "ACTED Community" }, "geometry": { "type": "Point", "coordinates": [ 36.330609669073958, 32.285823270085821 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 8, "DISTRICT": 10, "AREA": "ACTED Site Office" }, "geometry": { "type": "Point", "coordinates": [ 36.325552345973684, 32.287942669085652 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 9, "DISTRICT": 11, "AREA": "ACTED Lemon Center " }, "geometry": { "type": "Point", "coordinates": [ 36.320364242473389, 32.290540559585466 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 10, "DISTRICT": 12, "AREA": "IMC Empowerment Center" }, "geometry": { "type": "Point", "coordinates": [ 36.312138999872936, 32.294228000285209 ] } },
+{ "type": "Feature", "properties": { "NUMBER": 11, "DISTRICT": 4, "AREA": "WFP Food Distribution Compound" }, "geometry": { "type": "Point", "coordinates": [ 36.319964000073362, 32.297969000185446 ] } }
 ]
 }
