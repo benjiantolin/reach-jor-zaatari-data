@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AssemblyPoints" id="AssemblyPoints">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+</Schema>
+<Folder><name>AssemblyPoints</name>
+  <Placemark>
+	<name>1</name>
+      <Point><coordinates>36.3210056910734,32.3043439955855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+      <Point><coordinates>36.3232220001735,32.3036640001855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+      <Point><coordinates>36.3277640000738,32.3022060003857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+      <Point><coordinates>36.3386920003744,32.298074999586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+      <Point><coordinates>36.330530999974,32.2923170002858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+      <Point><coordinates>36.3409925938745,32.2876690242861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+      <Point><coordinates>36.330609669074,32.2858232700858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+      <Point><coordinates>36.3255523459737,32.2879426690857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+      <Point><coordinates>36.3203642424734,32.2905405595855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+      <Point><coordinates>36.3121389998729,32.2942280002852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+      <Point><coordinates>36.3199640000734,32.2979690001854</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

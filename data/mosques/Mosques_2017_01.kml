@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Mosques_2017_01" id="Mosques_2017_01">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+</Schema>
+<Folder><name>Mosques_2017_01</name>
+  <Placemark>
+	<name>Albir</name>
+      <Point><coordinates>36.3131202061158,32.2962342426995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Makiyon1</name>
+      <Point><coordinates>36.3120318115001,32.2953001197814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alhabeeb almostafa</name>
+      <Point><coordinates>36.3143477558984,32.2957116928067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ja'far altayar</name>
+      <Point><coordinates>36.3176533898526,32.2943536212492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Almouna</name>
+      <Point><coordinates>36.3164081847807,32.2950037820173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sa'eed bin alousayab</name>
+      <Point><coordinates>36.3133651436517,32.2933882677089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alzobayr bin awam</name>
+      <Point><coordinates>36.335496002658,32.282375495448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hamza bin abdelmoutaleb</name>
+      <Point><coordinates>36.3155399802452,32.2910245054477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shohada alghota</name>
+      <Point><coordinates>36.3383286835779,32.2814597261179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alqa'qa bin amro altamimi</name>
+      <Point><coordinates>36.3374745727523,32.28326826065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alda'wa</name>
+      <Point><coordinates>36.338641180651,32.2866032342735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A'l askar</name>
+      <Point><coordinates>36.3405462574511,32.2838426119544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahl alsoneh</name>
+      <Point><coordinates>36.3390810418826,32.2881551990429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khozayma bin thabet alansari</name>
+      <Point><coordinates>36.3427362074044,32.2914541414199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ibn katheer aldemashqe</name>
+      <Point><coordinates>36.3374259847861,32.2897721365153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amro bin ala's</name>
+      <Point><coordinates>36.3408469241203,32.2897108365093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahl alsham</name>
+      <Point><coordinates>36.3412453636884,32.2935254261494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anas bin malek</name>
+      <Point><coordinates>36.3401056110697,32.2926640806074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Altaqwa</name>
+      <Point><coordinates>36.3386131806351,32.2953495423302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aliman bellah</name>
+      <Point><coordinates>36.3399955068649,32.296345569053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sayed bin thabet</name>
+      <Point><coordinates>36.3346794350033,32.2903167810412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alsahabah</name>
+      <Point><coordinates>36.3353134890927,32.2916570082351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alwalden</name>
+      <Point><coordinates>36.334631257522,32.2946249362354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aisha bint abi baker</name>
+      <Point><coordinates>36.3328667919104,32.2924037313718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moa'oya bn abi sofian</name>
+      <Point><coordinates>36.3328030327359,32.2986309645042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alrayan</name>
+      <Point><coordinates>36.3338300734928,32.2973760881489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abdallah Ben almobarak</name>
+      <Point><coordinates>36.3295005925565,32.2949266687501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alomari Alkabeer</name>
+      <Point><coordinates>36.3320464405997,32.2958950678768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alislah</name>
+      <Point><coordinates>36.3296328394345,32.2999937822577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Almohamadi Alkabeer</name>
+      <Point><coordinates>36.3296782117821,32.2975990307683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alemam moslem</name>
+      <Point><coordinates>36.3216187044773,32.286915371825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khadeja bnt khoiled</name>
+      <Point><coordinates>36.3176630661053,32.2896839927839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abo baker alsadeq</name>
+      <Point><coordinates>36.319418959964,32.2910374595293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mosa'b beb omair</name>
+      <Point><coordinates>36.321823429613,32.2906959840673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jaafar beb abi taleb</name>
+      <Point><coordinates>36.3199298678626,32.2922444210948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ali bin abi taleb</name>
+      <Point><coordinates>36.3176650805207,32.2929125711766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belal alhabashi</name>
+      <Point><coordinates>36.3213164846869,32.2938699322138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alhoda</name>
+      <Point><coordinates>36.3239670695926,32.2928290851558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alforqan</name>
+      <Point><coordinates>36.3278246426071,32.2920899921743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Othman bin afan</name>
+      <Point><coordinates>36.3298755474901,32.2909358407138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Omar almokhtar</name>
+      <Point><coordinates>36.3266773107759,32.2901927235916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harmala bin alwaled</name>
+      <Point><coordinates>36.3242090402312,32.2906402330003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abi baker alsadeq</name>
+      <Point><coordinates>36.3276540575496,32.2885498580746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ibn alqaim</name>
+      <Point><coordinates>36.3256957705816,32.2873442368894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abo baker alsadeq</name>
+      <Point><coordinates>36.3229350050187,32.2879468733461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alkuaiti</name>
+      <Point><coordinates>36.3256688571578,32.284901900856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aisha om almomanin</name>
+      <Point><coordinates>36.3278084999126,32.285185282058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Omar bin alkhatab</name>
+      <Point><coordinates>36.3292812930306,32.2858203541291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alemam moslem bin alhajaj</name>
+      <Point><coordinates>36.3317823706223,32.2850756730384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>36.3290710161071,32.2880676979903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaled bin alwaled</name>
+      <Point><coordinates>36.3297589337227,32.2891206981901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Om salama</name>
+      <Point><coordinates>36.3328473683687,32.28900043959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shohadaa alghota</name>
+      <Point><coordinates>36.3250484410834,32.3015516204555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Almohajeren o alansar</name>
+      <Point><coordinates>36.3227938104753,32.3011055594011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khaled Ben alwaled</name>
+      <Point><coordinates>36.3250772213762,32.2983038849326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salah Alden alayobi</name>
+      <Point><coordinates>36.3257905814455,32.3002497912561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alkuiti</name>
+      <Point><coordinates>36.3276694694899,32.3001684599914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ammar bn yaser</name>
+      <Point><coordinates>36.3265264315705,32.2958673625645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alemam ballah</name>
+      <Point><coordinates>36.3236427395118,32.2956151603804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alfaroq</name>
+      <Point><coordinates>36.3212945815055,32.2959320406252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Altawhed</name>
+      <Point><coordinates>36.3189962108872,32.2958739583607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Almoqdad bn alaswad</name>
+      <Point><coordinates>36.3205406390584,32.2965845909579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moaath bn jabal</name>
+      <Point><coordinates>36.322408824712,32.2967054341673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alsadiq alamen</name>
+      <Point><coordinates>36.3211771016975,32.2977148486391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anas bn malek</name>
+      <Point><coordinates>36.3236883000677,32.297772191293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Altaqwa</name>
+      <Point><coordinates>36.3142869123286,32.2967394868302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abo baker alsadeq</name>
+      <Point><coordinates>36.3184692030988,32.2980461042268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alomari</name>
+      <Point><coordinates>36.314498718328,32.2994316643626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khadeja</name>
+      <Point><coordinates>36.316643421089,32.2990737659198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rohmaa baynahom</name>
+      <Point><coordinates>36.3167094139985,32.300746852929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alkravan</name>
+      <Point><coordinates>36.3200422488851,32.2997226973803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abd alrhman bn awf</name>
+      <Point><coordinates>36.3161895737153,32.3022749573807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alsalam</name>
+      <Point><coordinates>36.3192176672169,32.3031766112913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zaatari kaber</name>
+      <Point><coordinates>36.3195720353392,32.3018934357907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alfaroq</name>
+      <Point><coordinates>36.3170582886257,32.3014321787418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>36.3347544213571,32.2865091665273</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
