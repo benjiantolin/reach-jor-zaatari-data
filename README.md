@@ -2,14 +2,17 @@
 
 This data portal is the collective effort of the following agencies, containing years of work within the refugee camp. The following partners have been significantly involved in data creation, processing, and validation.
 
+<div style="display: inline-block;">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-unicef.jpg" height="48px" alt="">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-unhcr.jpg" height="48px" alt="">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-unops.jpg" height="48px" alt="">
-
+</div>
+<div style="display: inline-block;">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-acted.jpg" height="48px" alt="">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-jen.jpg" height="48px" alt="">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-oxfam.jpg" height="48px" alt="">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/logo-reach.jpg" height="48px" alt="">
+</div>
 
 # General Infrastructure Data
 
@@ -88,20 +91,24 @@ This links leads to the Za'atari Maps application. The maps are mobile friendly,
 
 To install the app on mobile devices, select "Add to Home screen" from the Chrome menu. After this, the app is saved to your phone and will be available offline.
 
+<div style="display: inline-block;">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-1.jpg" width="140px" height="249px" alt="Android Install 1">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-2.jpg" width="140px" height="249px" alt="Android Install 2">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-3.jpg" width="140px" height="249px" alt="Android Install 3">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-4.jpg" width="140px" height="249px" alt="Android Install 4">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-5.jpg" width="140px" height="249px" alt="Android Install 5">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-6.jpg" width="140px" height="249px" alt="Android Install 6">
+</div>
 
 If for some reason this is not working on your device, you can import the source data into an existing application such as MAPS.ME. Click the KML link on your phone, and this will load the file into the application. If you would like to delete or turn off downloaded layers, you can do so from the Bookmark Manager screen.
 
+<div style="display: inline-block;">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-1.jpg" width="140px" height="249px" alt="MAPS.ME Install 1">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-2.jpg" width="140px" height="249px" alt="MAPS.ME Install 2">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-3.jpg" width="140px" height="249px" alt="MAPS.ME Install 3">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-4.jpg" width="140px" height="249px" alt="MAPS.ME Install 4">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/maps-me-install-5.jpg" width="140px" height="249px" alt="MAPS.ME Install 5">
+</div>
 
 # Print Maps
 
