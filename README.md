@@ -86,12 +86,13 @@ This links leads to the Za'atari Maps application. The maps are mobile friendly,
 
 - [Districts](https://zaatari-maps.reach-info.org/#/districts)
 - [Blocks](https://zaatari-maps.reach-info.org/#/blocks)
-- [Health Facilities](https://zaatari-maps.reach-info.org/#/health)
 - [Wastewater Network](https://zaatari-maps.reach-info.org/#/waste-water)
 
 # Using Offline
 
-To use the app offline on your mobile device, select "Add to Home screen" from the Chrome menu. After this, the app is saved to your phone and will be available even without a network connection.
+## Android
+
+To use the app offline on your Android device, select "Add to Home screen" from the Chrome menu. After this, the app is saved to your phone and will be available even without a network connection.
 
 <div style="display: inline-block;">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-1.jpg" width="140px" height="249px" alt="Android Install 1">
@@ -101,6 +102,21 @@ To use the app offline on your mobile device, select "Add to Home screen" from t
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-5.jpg" width="140px" height="249px" alt="Android Install 5">
 <img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/android-install-6.jpg" width="140px" height="249px" alt="Android Install 6">
 </div>
+
+## iOS
+
+Similarly, to install the app for iOS devices, use "Add to Home Screen" from the share icon in Safari. After opening up the app for the first time from the home screen, allow a minute for the data to fully download. Otherwise, when accessing it offline, you will receive the warning "Cannot Open Zaatari Maps".
+
+<div style="display: inline-block;">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/ios-install-1.jpg" width="140px" height="249px" alt="iOS Install 1">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/ios-install-2.jpg" width="140px" height="249px" alt="iOS Install 2">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/ios-install-3.jpg" width="140px" height="249px" alt="iOS Install 3">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/ios-install-4.jpg" width="140px" height="249px" alt="iOS Install 4">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/ios-install-5.jpg" width="140px" height="249px" alt="iOS Install 5">
+<img src="https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/photos/ios-install-6.jpg" width="140px" height="249px" alt="iOS Install 6">
+</div>
+
+## MAPS.ME
 
 If your device is not updated to display the app properly, you can import the source data into an existing application such as MAPS.ME. Click the KML download links listed above with your phone, and this will load the files into the application. If you would like to delete or turn off downloaded layers, you can do so from the Bookmark Manager screen.
 
