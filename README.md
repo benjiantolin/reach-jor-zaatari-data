@@ -140,7 +140,8 @@ General Infrastructure:
 
 Water and Sanitation:
 
-- [Wastewater Network Phase 1](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_WASH_WWN_Phase_1_Feb2017.pdf?raw=true)
+- [Wastewater Network - Satellite Imagery](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_WASH_WWN_Phase_1_Mar2017.pdf?raw=true)
+- [Wastewater Network - Pipes](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_WASH_WWN_Phase_1_Pipes_Mar2017.pdf?raw=true)
 - [Garbage Bins](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_SWM_Garbage_Bins_Nov2016.pdf?raw=true)
 
 Flood:
