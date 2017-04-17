@@ -140,7 +140,7 @@ General Infrastructure:
 
 Water and Sanitation:
 
-- [Septic and Steel Tanks](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_WWN_Septic_Steel_Tanks_Imagery_Nov2016.pdf?raw=true)
+- [Septic and Steel Tanks](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_WASH_WWN_Phase_1_Feb2017.pdf?raw=true)
 - [Wastewater Network Construction](http://www.reachresourcecentre.info/system/files/resource-documents/reach_jor_map_zaatari_ccm_wwn_progress_jun2016_a1.pdf)
 - [Garbage Bins](https://github.com/impact-initiatives/reach-jor-zaatari-data/raw/master/maps/water-and-sanitation/REACH_JOR_Map_Zaatari_SWM_Garbage_Bins_Nov2016.pdf?raw=true)
 
